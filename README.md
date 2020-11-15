@@ -8,5 +8,8 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: You can reach me on Discord!: raz#7092
 - 😄 Pronouns: He / Him
+
+
+
 https://github-readme-stats.vercel.app/api?username=80b&show_icons=true&title_color=788cd1&bg_color=ededed&text_color=121212
 
